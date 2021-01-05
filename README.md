@@ -4,6 +4,4 @@ I like coding and trying to be better in it
 
 I know Python, HTML and CSS
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DemiGod108)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DemiGod108&show_icons=true&theme=dracula)
