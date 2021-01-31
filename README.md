@@ -1,4 +1,4 @@
-HELLO! https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
+HELLO! 
 I am just a guy who likes Tech and always looking forward to learn new things 
 I like coding and trying to be better in it 
 
